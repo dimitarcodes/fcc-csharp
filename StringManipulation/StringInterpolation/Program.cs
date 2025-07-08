@@ -1,4 +1,4 @@
-﻿class StringFormatting
+﻿class StringInterpolation
 {
     static void Main(string[] args)
     {

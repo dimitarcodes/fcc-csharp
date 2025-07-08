@@ -1,12 +1,10 @@
-class StringPadding
+﻿class StringPadding
 {
     public static void Main(string[] args)
     {
-        Example1();
-        // Example2();
-        // Example3();
+        ex1();
     }
-    static void Example1()
+    static void ex1()
     {
         string firstName = "John";
         string lastName = "Doe";

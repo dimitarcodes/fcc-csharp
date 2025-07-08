@@ -1,0 +1,8 @@
+- `+` addition operator
+- `-` subtraction operator
+- `*` multiplication operator
+- `/` division operator
+- % modulo operator
+- `++, --, +=, -=, *=` operators available as well 
+	- `value++` can be plugged in string interpolation and will return value THEN increment
+	- `++value` will first increment then return value
